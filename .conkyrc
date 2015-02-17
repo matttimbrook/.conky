@@ -138,7 +138,7 @@ ${voffset 4}${font PizzaDude Bullets:size=14}N${font}   Upload: ${alignr}${total
 ${voffset 4}${font PizzaDude Bullets:size=14}T${font}   Download: ${alignr}${totaldown ppp0}
 ${endif}
 
-<<<<<<< HEAD
-
-=======
->>>>>>> 788437a3ec39697e52810bc9373b4b7a1158d4c7
+#<<<<<<< HEAD
+#
+#=======
+#>>>>>>> 788437a3ec39697e52810bc9373b4b7a1158d4c7
